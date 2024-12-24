@@ -8,7 +8,7 @@ function App() {
     <>
       <></>
       <Routes>
-        <Route path="/" element={<Main />} />
+        <Route path="/qpick" element={<Main />} />
         <Route path="/cart" element={<Cart />} />
       </Routes>
       <Footer />
